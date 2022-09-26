@@ -37,3 +37,4 @@ Reeinstalando os pacotes:
 
 - [forum.xda-developers.com/t/debloat-galaxy-watch-4.4324147](https://forum.xda-developers.com/t/debloat-galaxy-watch-4.4324147/)
 - [www.droidwin.com/how-to-debloat-remove-bloatware-from-galaxy-watch-4/#STEP_4_Get_a_List_of_All_Installed_Apps_in_Galaxy_Watch_4](www.droidwin.com/how-to-debloat-remove-bloatware-from-galaxy-watch-4/#STEP_4_Get_a_List_of_All_Installed_Apps_in_Galaxy_Watch_4)
+- [techwiser.com/ways-to-unpair-or-disconnect-samsung-galaxy-watch-from-phone](https://techwiser.com/ways-to-unpair-or-disconnect-samsung-galaxy-watch-from-phone/)
