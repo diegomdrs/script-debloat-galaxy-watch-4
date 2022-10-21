@@ -94,7 +94,7 @@ execute() {
     adb shell ${ACTION} com.google.android.wearable.assistant
 
     # NFC
-    adb shell ${ACTION} com.android.nfc
+    # com.android.nfc
 
     # Video Player
     adb shell ${ACTION} com.samsung.android.video.wearable
