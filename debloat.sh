@@ -99,6 +99,9 @@ execute() {
     # Video Player
     adb shell ${ACTION} com.samsung.android.video.wearable
 
+    # Google Wallet
+    adb shell ${ACTION} com.google.android.apps.walletnfcrel
+
     # Misc
     adb shell ${ACTION} com.microsoft.office.outlook
     adb shell ${ACTION} com.samsung.android.watch.budscontroller
