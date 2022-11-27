@@ -1,5 +1,11 @@
 # script-debloat-galaxy-watch-4
 
+## Conectando o adb
+
+~~~
+adb connect <IP>
+~~~
+
 ## Reinstalando pacote desinstalados
 
 ~~~
